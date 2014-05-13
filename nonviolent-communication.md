@@ -22,12 +22,12 @@ Observe without evaluation.
 "When I see you giving all your lunch money to others, I think you are being
 too generous." factual observation, and takes responsibility for evaluation.
 
-John was angry with me for now reason.
+"John was angry with me for now reason."
 
 vs.
 
-John pounded his fist on the table and raised his voice.  I didn't understand
-why.
+"John pounded his fist on the table and raised his voice.  I didn't understand
+why." (better.  starts with objective observation.  takes responsibility for the judgement)
 
 OBSERVATION + EVALUATION = CRITICISM = RESISTANCE
 
@@ -52,12 +52,11 @@ FEELINGS:
 
 COMMON MISTAKES
 
-* I feel like you ignore my opinions (doesn't describe feelings.  could say "I
+* "I feel like you ignore my opinions" (doesn't describe feelings.  could say "I
   think")
 
 
-Negative Message => \
-
+Negative message from other leads to several possibilities
 1. Blame yourself
 2. Blame others/Lash out ("You make me so angry")
 3. Sense your own feelings & needs (this is the good one)
@@ -85,9 +84,10 @@ they're feeling it. Active listening (feed back to the person what you think the
 
 
 TAKEAWAYS
+
 1. Judgement is where violence starts.  We all do it, but should be aware of the problems it causes.
 2. The root of judgements are feelings and the root of feelings are needs.
 3. observations, feelings, needs, requests
-4. Only on person in the conversation needs to understand this for it to work.
+4. Only one person in the conversation needs to understand this for it to work.
 
 Look up Linda Risen's talks as well. "How not to talk to your kids."
