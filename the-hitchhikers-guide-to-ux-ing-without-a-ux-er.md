@@ -5,10 +5,12 @@ Chrissy Welsh
 
 Users vs Product vs UX vs UI
 
+```
 User == Person
 Product == Bike
 UI == Seat, Pedals, Handlebars
 UX == Wind in your hair, etc.
+```
 
 The elephant in the room:
 
