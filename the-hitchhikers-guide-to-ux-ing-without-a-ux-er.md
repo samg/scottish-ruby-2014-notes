@@ -56,8 +56,11 @@ e.g. "I just want to buy what I want and get out"
 James Dent, 32 yo PM.
 
 Goals: ...
+
 Behaviors: ...
+
 We must: ...
+
 We must never: ...
 
 ### Why you should wireframe and how to do it.
@@ -66,8 +69,11 @@ Having one idea is great.  Iterating on an idea is better.  Trying multiple
 ideas gives you the best solution.
 
 Use paper, but Balsamiq is good wireframing software.
+
 also
+
 InvisionApp
+
 Axure - less fast but High Fidelity
 
 ### How to make a throwaway prototype.
